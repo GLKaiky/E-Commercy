@@ -2,7 +2,7 @@
 
 <h4>E-Commerce com o tema Eletronicos criado com bootstrap, html e css</h4>
 
-<h1>O site foi criado para a disciplina de DIW da PUCMINAS pelo aluno Kaik Frbnça da Silva (informações no roda pé do website) </h1>
+<h1>O site foi criado para a disciplina de DIW da PUCMINAS pelo aluno Kaiky França da Silva (informações no roda pé do website) </h1>
 
 
 
